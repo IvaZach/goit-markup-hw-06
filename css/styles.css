@@ -924,7 +924,7 @@ img {
 .mdl-icon-checkbox {
   display: inline-block;
   width: 16px;
-  height: 16px;
+  height: 15px;
   background-color: var(--second-accent-color);
   margin-right: 8px;
   border: 2px solid var(--header-color);
